@@ -1,5 +1,5 @@
 {
-  "show_notification": true,
+  "show_notification": false,
   "notification_url": "market://details?id=com.supercell.clashofclans",
   "en": {
     "notification_header": "Attention!",
