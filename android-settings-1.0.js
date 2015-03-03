@@ -1,7 +1,8 @@
 {
   "show_notification": true,
-  "notification_header": "Attention!",
-  "notification_text": "We have republished this app.
-  Please redownload it from the Google Play",
-  "notification_url": "http://google.com"
+  "en": {
+    "notification_header": "Attention!",
+    "notification_text": "We've re-published this app on Google Play. In order to continue receive future updates: please redownload the app now by clicking on this notification. Thank you.",
+    "notification_url": "http://google.com"
+  }
 }
